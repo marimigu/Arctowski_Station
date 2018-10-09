@@ -5,3 +5,5 @@ foto/
 documentation/
 ## Katalog z teksturami
 textures/
+## Pliki żródłowe .blend
+#.blend *
