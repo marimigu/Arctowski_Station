@@ -5,6 +5,10 @@ foto/
 mapy/
 ## Katalog z teksturami
 textures/
+# Katalo z teksturami obrobionymi
+sources/
 ## Pliki żródłowe .blend
 *.blend
 *.blend*
+## Pliki Gimp
+*.xcf
